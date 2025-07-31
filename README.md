@@ -4,7 +4,7 @@ A machine learning project to predict the price of laptops based on various spec
 
 ---
  
-## Project Structure
+## Project Structure 
 
 - laptop-price-predictor.ipynb # Main notebook for data analysis and modeling
 - dataset(laptop_price) # Folder for dataset CSV file
