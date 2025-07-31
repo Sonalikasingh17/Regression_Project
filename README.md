@@ -6,13 +6,13 @@ A machine learning project to predict the price of laptops based on various spec
 
 ## Project Structure
 
-laptop-price-predictor/
-│
-├── laptop-price-predictor.ipynb # Main notebook for data analysis and modeling
-├── dataset/ # Folder for dataset CSV file (if applicable)
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies (optional)
-└── models/ # Saved models (optional)
+- laptop-price-predictor.ipynb # Main notebook for data analysis and modeling
+- dataset(laptop_price) # Folder for dataset CSV file
+- a python file (price_prdictor)
+- README.md # Project documentation
+- requirements.txt # Python dependencies
+- models/ # Saved models 
+
 ---
 
 ##  Dataset
@@ -80,19 +80,19 @@ ColumnTransformer [
 
 
 ---
-```yaml
-##  Evaluation Metrics
 
+##  Evaluation Metrics
+```yaml
 - **R² Score**: Indicates the proportion of variance explained
 - **RMSE**: Root Mean Square Error
 - **MAE**: Mean Absolute Error
-
+```
 ---
 
 ## Requirements
 
 Install dependencies using:
-```
+
 ```bash
 pip install -r requirements.txt
 ```
