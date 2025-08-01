@@ -2,7 +2,7 @@
 
 A machine learning project to predict the price of laptops based on various specifications like brand, processor, RAM, storage, and operating system using regression models.
 
----
+--- 
  
 ## Project Structure 
 
