@@ -19,7 +19,7 @@ from xgboost import XGBRegressor
 
 df = pd.read.csv('laptop_data.csv')
 
-df.head(10)
+df.head(10) 
 
 df.shape
 
