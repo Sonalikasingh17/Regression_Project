@@ -5,7 +5,7 @@ import seaborn as sns
 
 
 from sklearn.compose import ColumnTransformer 
-from sklearn.pipeline import Pipeline
+from sklearn.pipeline import Pipeline 
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.metrics import r2_score,mean_absolute_error
 
