@@ -1,6 +1,6 @@
 # Laptop Price Predictor
 
-A machine learning project to predict the price of laptops based on various specifications like brand, processor, RAM, storage, and operating system using regression models.
+A machine learning project to predict the price of laptops based on various specifications like brand, processor, RAM, storage, and operating system using regression models. 
 
 --- 
  
@@ -34,7 +34,7 @@ The dataset includes details like:
 - GPU
 - OS
 - Price
-
+- 
 The target variable is `Price` (in INR or any relevant currency).
 
 ---
